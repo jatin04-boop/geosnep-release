@@ -1,6 +1,9 @@
 # geosnep-release
 Release page for the GeoSnep Android app
 
+![GitHub release downloads](https://img.shields.io/github/downloads/jatin04-boop/geosnep-release/total?label=APK%20Downloads&style=for-the-badge)
+
+
 # 📍 GeoSnep
 
 GeoSnep is a lightweight, real-time geo-location app with geofencing support.
