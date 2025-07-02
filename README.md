@@ -30,8 +30,7 @@ Or click here: [⬇️ GeoSnep v1.0.0 APK](https://github.com/jatin04-boop/geosn
 
 ## 📸 Screenshots
 
-![ss3 (1) 9 32 52 PM](https://github.com/user-attachments/assets/fabe2829-2b40-422d-8214-4e86041dcc13)
-
+<img src="https://github.com/user-attachments/assets/fabe2829-2b40-422d-8214-4e86041dcc13" alt="GeoSnep Screenshot" width="450"/>
 
 ---
 
