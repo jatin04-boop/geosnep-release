@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/66d72d06-b6aa-4016-aec4-74827ec38a50" alt="GeoSnep Logo" width="60" style="vertical-align: middle; border-radius: 12px;"/>
+  <img src="https://github.com/user-attachments/assets/c1bc22d6-8287-40c8-ae1b-d4edab3c1e28" alt="GeoSnep Logo" width="60"/>
   <strong style="font-size: 1.2rem; vertical-align: middle;">GeoSnep</strong> – Real-time location & geofencing app for Android.
 </p>
 
@@ -43,6 +43,3 @@ This is a release-only repository. If you’re interested in the source code, st
 ## 📊 APK Downloads
 
 ![GitHub release downloads](https://img.shields.io/github/downloads/jatin04-boop/geosnep-release/total?label=APK%20Downloads&style=for-the-badge)
-
-
-
