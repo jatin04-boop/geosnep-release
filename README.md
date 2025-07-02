@@ -1,5 +1,8 @@
 # 📦 geosnep-release
-> Release page for the GeoSnep Android app
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/fabe2829-2b40-422d-8214-4e86041dcc13" alt="GeoSnep Logo" width="60" style="border-radius: 12px; vertical-align: middle;"/>
+  <strong style="font-size: 1.2rem; vertical-align: middle;">GeoSnep</strong> – Lightweight real-time location & geofencing app for Android.
+</p>
 
 ---
 
